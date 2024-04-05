@@ -21,10 +21,18 @@ Suspect (2.0)
 
 Pathological (3.0)
 
----
+(The classes were converted to 0,1 and 2 to build models)
+
 
 **Cardiotocogram (CTG) is an electronic fetal monitoring to monitor Fetal Hearth Rate (FHR) and uterine contractions simultanously.**  
 
 FHR: Babies heart beat's per minute. Typical FHR ranges between 110 and 160 beats per minute.
 
 CTG is a crucial tool in obstetric care and provide valuable information for both mother and baby during or before labor.
+
+---
+
+#### A section from the Streamlit screen :
+
+![streamlit](https://github.com/htcSnmz/Fetal_Health_Classification/assets/19350791/cd36b2b2-bdf1-49ac-ac13-6f2b982d85b2)
+
