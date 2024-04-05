@@ -32,7 +32,11 @@ CTG is a crucial tool in obstetric care and provide valuable information for bot
 
 ---
 
-#### A section from the Streamlit screen :
+#### Project Presentation:
+
+https://github.com/htcSnmz/Fetal_Health_Classification/assets/19350791/14218744-fd7a-434a-adad-8529878eaeb8
+
+---
+#### A Section from the Streamlit Screen:
 
 ![streamlit](https://github.com/htcSnmz/Fetal_Health_Classification/assets/19350791/cd36b2b2-bdf1-49ac-ac13-6f2b982d85b2)
-
